@@ -23,7 +23,7 @@ header {
 
 .headText {
     margin-left: 2rem;
-    color: darkmagenta;
+    color: yellow;
     position: absolute;
     top: 50%;
     left: 20px;
@@ -93,7 +93,7 @@ main {
 
 .text {
     /* color: #fca211; */
-    color: #000000;
+    color: yellowgreen;
 }
 
 #donate {
